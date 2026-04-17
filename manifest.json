@@ -1,0 +1,9 @@
+{
+  "id": "diff-plugin",
+  "name": "Diff Viewer",
+  "version": "0.1.0",
+  "description": "Git diff viewer with line-level syntax highlighting for staged and working tree changes.",
+  "entry": "index.js",
+  "quipuVersion": ">=0.14.0",
+  "fileTypes": []
+}
